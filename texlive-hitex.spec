@@ -1,6 +1,6 @@
 Name:		texlive-hitex
 Version:	63708
-Release:	1
+Release:	2
 Summary:	A TeX extension writing HINT output for on-screen reading
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hitex
