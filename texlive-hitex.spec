@@ -3,7 +3,7 @@ Version:	63708
 Release:	2
 Summary:	A TeX extension writing HINT output for on-screen reading
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hitex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/hitex
 License:	x11
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hitex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hitex.doc.r%{version}.tar.xz
